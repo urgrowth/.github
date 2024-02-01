@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/urgrowth/urgrowth/main/public/images/logo-beta.svg" width="512"></p>
+<p align="center"><img src="https://github.com/urgrowth/.github/assets/68820538/9e3ace65-efa5-4e24-b6eb-7ed5f2b4304f" width="512"></p>
 
 ## 🙋 What is URGROWTH?
 
